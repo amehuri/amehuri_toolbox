@@ -1,7 +1,7 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"amehuri",
+    "id":"com.amehuri.amehuri-toolbox",
+    "url":"https://amehuri.github.io/amehuri_tools/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
@@ -14,7 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "amehuri/amehuri_tools"
     ],
     "packages":[
         {
